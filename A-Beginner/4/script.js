@@ -1,2 +1,2 @@
 // Skapa ett tomt objekt
-let myObject ={};
+const myObject ={};
